@@ -52,7 +52,7 @@ bool CMouseLayer::init(){
     // マウスイベントリスナーにマウススクロール時の処理を登録
     this->m_pEventListenerMouse->onMouseScroll = CC_CALLBACK_1(CMouseLayer::mouseScrolled, this) ;
     
-    // マウスイベントリスナーをイベンtのディスパッチャーに登録
+    // マウスイベントリスナーをイベントディスパッチャーに登録
     this->_eventDispatcher->addEventListenerWithSceneGraphPriority(this->m_pEventListenerMouse, this) ;
     
     return true ;

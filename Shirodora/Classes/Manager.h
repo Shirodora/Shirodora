@@ -15,9 +15,5 @@
 #include "InputManager.hpp"
 #include "MouseManager.hpp"
 
-#include "BarragePartsFactory.hpp"
-#include "BarrageCreateFactory.hpp"
-
-#include "Barrage_Aggregate.hpp"
 
 #endif /* Manager_h */

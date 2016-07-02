@@ -45,21 +45,6 @@ public :
         }
     }
     
-    /**
-     *  @desc   通常の生成
-     */
-    template <typename Ty, typename Barrage>
-    static Ty* create(Barrage) {
-        Ty* pRet = new(std::nothrow)Ty() ;
-        if(pRet && pRet->init()) {
-            pRet->autorelease() ;
-            return pRet ;
-        }else{
-            delete pRet ;
-            pRet = NULL ;
-            return NULL ;
-        }
-    }
 };
 
 //=========================================================================
