@@ -32,22 +32,22 @@
 		4F9C5A591D30A1AC0070E0DC /* Object.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A4F1D30A1AC0070E0DC /* Object.cpp */; };
 		4F9C5A5A1D30A1AC0070E0DC /* Pawn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A521D30A1AC0070E0DC /* Pawn.cpp */; };
 		4F9C5A5B1D30A1AC0070E0DC /* Pawn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A521D30A1AC0070E0DC /* Pawn.cpp */; };
-		4F9C5A701D30A4210070E0DC /* arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5A5F1D30A4210070E0DC /* arial.ttf */; };
-		4F9C5A711D30A4210070E0DC /* arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5A5F1D30A4210070E0DC /* arial.ttf */; };
-		4F9C5A721D30A4210070E0DC /* Marker Felt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5A601D30A4210070E0DC /* Marker Felt.ttf */; };
-		4F9C5A731D30A4210070E0DC /* Marker Felt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5A601D30A4210070E0DC /* Marker Felt.ttf */; };
-		4F9C5A7E1D30A4210070E0DC /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5A6F1D30A4210070E0DC /* .gitkeep */; };
-		4F9C5A7F1D30A4210070E0DC /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5A6F1D30A4210070E0DC /* .gitkeep */; };
-		4F9C5ABE1D30A5710070E0DC /* gameMainBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AB61D30A5710070E0DC /* gameMainBG.png */; };
-		4F9C5ABF1D30A5710070E0DC /* gameMainBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AB61D30A5710070E0DC /* gameMainBG.png */; };
-		4F9C5AC01D30A5710070E0DC /* Bone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AB91D30A5710070E0DC /* Bone.png */; };
-		4F9C5AC11D30A5710070E0DC /* Bone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AB91D30A5710070E0DC /* Bone.png */; };
-		4F9C5AC21D30A5710070E0DC /* BoneFramework1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5ABA1D30A5710070E0DC /* BoneFramework1.png */; };
-		4F9C5AC31D30A5710070E0DC /* BoneFramework1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5ABA1D30A5710070E0DC /* BoneFramework1.png */; };
-		4F9C5AC41D30A5710070E0DC /* BoneFramework2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5ABB1D30A5710070E0DC /* BoneFramework2.png */; };
-		4F9C5AC51D30A5710070E0DC /* BoneFramework2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5ABB1D30A5710070E0DC /* BoneFramework2.png */; };
-		4F9C5AC61D30A5710070E0DC /* BoneGloss.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5ABC1D30A5710070E0DC /* BoneGloss.png */; };
-		4F9C5AC71D30A5710070E0DC /* BoneGloss.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5ABC1D30A5710070E0DC /* BoneGloss.png */; };
+		4F9C5B021D30AC9B0070E0DC /* arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AF11D30AC9B0070E0DC /* arial.ttf */; };
+		4F9C5B031D30AC9C0070E0DC /* arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AF11D30AC9B0070E0DC /* arial.ttf */; };
+		4F9C5B041D30AC9C0070E0DC /* Marker Felt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AF21D30AC9B0070E0DC /* Marker Felt.ttf */; };
+		4F9C5B051D30AC9C0070E0DC /* Marker Felt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AF21D30AC9B0070E0DC /* Marker Felt.ttf */; };
+		4F9C5B061D30AC9C0070E0DC /* gameMainBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AF81D30AC9B0070E0DC /* gameMainBG.png */; };
+		4F9C5B071D30AC9C0070E0DC /* gameMainBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AF81D30AC9B0070E0DC /* gameMainBG.png */; };
+		4F9C5B081D30AC9C0070E0DC /* Bone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFB1D30AC9B0070E0DC /* Bone.png */; };
+		4F9C5B091D30AC9C0070E0DC /* Bone.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFB1D30AC9B0070E0DC /* Bone.png */; };
+		4F9C5B0A1D30AC9C0070E0DC /* BoneFramework1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFC1D30AC9B0070E0DC /* BoneFramework1.png */; };
+		4F9C5B0B1D30AC9C0070E0DC /* BoneFramework1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFC1D30AC9B0070E0DC /* BoneFramework1.png */; };
+		4F9C5B0C1D30AC9C0070E0DC /* BoneFramework2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFD1D30AC9B0070E0DC /* BoneFramework2.png */; };
+		4F9C5B0D1D30AC9C0070E0DC /* BoneFramework2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFD1D30AC9B0070E0DC /* BoneFramework2.png */; };
+		4F9C5B0E1D30AC9C0070E0DC /* BoneGloss.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFE1D30AC9B0070E0DC /* BoneGloss.png */; };
+		4F9C5B0F1D30AC9C0070E0DC /* BoneGloss.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5AFE1D30AC9B0070E0DC /* BoneGloss.png */; };
+		4F9C5B101D30AC9C0070E0DC /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5B011D30AC9B0070E0DC /* .gitkeep */; };
+		4F9C5B111D30AC9C0070E0DC /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 4F9C5B011D30AC9B0070E0DC /* .gitkeep */; };
 		4FB161B31D2795AE00447E16 /* InputManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FB161A11D2795AE00447E16 /* InputManager.cpp */; };
 		4FB161B41D2795AE00447E16 /* InputManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FB161A11D2795AE00447E16 /* InputManager.cpp */; };
 		4FB161B51D2795AE00447E16 /* MouseManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FB161A41D2795AE00447E16 /* MouseManager.cpp */; };
@@ -155,14 +155,14 @@
 		4F9C5A501D30A1AC0070E0DC /* Object.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Object.hpp; sourceTree = "<group>"; };
 		4F9C5A521D30A1AC0070E0DC /* Pawn.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Pawn.cpp; sourceTree = "<group>"; };
 		4F9C5A531D30A1AC0070E0DC /* Pawn.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Pawn.hpp; sourceTree = "<group>"; };
-		4F9C5A5F1D30A4210070E0DC /* arial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = arial.ttf; sourceTree = "<group>"; };
-		4F9C5A601D30A4210070E0DC /* Marker Felt.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Marker Felt.ttf"; sourceTree = "<group>"; };
-		4F9C5A6F1D30A4210070E0DC /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
-		4F9C5AB61D30A5710070E0DC /* gameMainBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameMainBG.png; sourceTree = "<group>"; };
-		4F9C5AB91D30A5710070E0DC /* Bone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bone.png; sourceTree = "<group>"; };
-		4F9C5ABA1D30A5710070E0DC /* BoneFramework1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoneFramework1.png; sourceTree = "<group>"; };
-		4F9C5ABB1D30A5710070E0DC /* BoneFramework2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoneFramework2.png; sourceTree = "<group>"; };
-		4F9C5ABC1D30A5710070E0DC /* BoneGloss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoneGloss.png; sourceTree = "<group>"; };
+		4F9C5AF11D30AC9B0070E0DC /* arial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = arial.ttf; sourceTree = "<group>"; };
+		4F9C5AF21D30AC9B0070E0DC /* Marker Felt.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Marker Felt.ttf"; sourceTree = "<group>"; };
+		4F9C5AF81D30AC9B0070E0DC /* gameMainBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameMainBG.png; sourceTree = "<group>"; };
+		4F9C5AFB1D30AC9B0070E0DC /* Bone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bone.png; sourceTree = "<group>"; };
+		4F9C5AFC1D30AC9B0070E0DC /* BoneFramework1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoneFramework1.png; sourceTree = "<group>"; };
+		4F9C5AFD1D30AC9B0070E0DC /* BoneFramework2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoneFramework2.png; sourceTree = "<group>"; };
+		4F9C5AFE1D30AC9B0070E0DC /* BoneGloss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BoneGloss.png; sourceTree = "<group>"; };
+		4F9C5B011D30AC9B0070E0DC /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		4FB161921D2795AE00447E16 /* Constants.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Constants.hpp; sourceTree = "<group>"; };
 		4FB161A11D2795AE00447E16 /* InputManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = InputManager.cpp; sourceTree = "<group>"; };
 		4FB161A21D2795AE00447E16 /* InputManager.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = InputManager.hpp; sourceTree = "<group>"; };
@@ -297,8 +297,8 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				4F9C5AEF1D30AC9B0070E0DC /* Resources */,
 				46880B8319C43A87006E1F66 /* Classes */,
-				4F9C5A5D1D30A4210070E0DC /* Resources */,
 				1AC6FAE5180E9839004C840B /* cocos2d_libs.xcodeproj */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				080E96DDFE201D6D7F000001 /* ios */,
@@ -488,99 +488,99 @@
 			path = Pawn;
 			sourceTree = "<group>";
 		};
-		4F9C5A5D1D30A4210070E0DC /* Resources */ = {
+		4F9C5AEF1D30AC9B0070E0DC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				4F9C5AB11D30A5710070E0DC /* Image */,
-				4F9C5A5E1D30A4210070E0DC /* fonts */,
-				4F9C5A6E1D30A4210070E0DC /* res */,
+				4F9C5AF01D30AC9B0070E0DC /* fonts */,
+				4F9C5AF31D30AC9B0070E0DC /* Image */,
+				4F9C5B001D30AC9B0070E0DC /* res */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		4F9C5A5E1D30A4210070E0DC /* fonts */ = {
+		4F9C5AF01D30AC9B0070E0DC /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				4F9C5A5F1D30A4210070E0DC /* arial.ttf */,
-				4F9C5A601D30A4210070E0DC /* Marker Felt.ttf */,
+				4F9C5AF11D30AC9B0070E0DC /* arial.ttf */,
+				4F9C5AF21D30AC9B0070E0DC /* Marker Felt.ttf */,
 			);
 			path = fonts;
 			sourceTree = "<group>";
 		};
-		4F9C5A6E1D30A4210070E0DC /* res */ = {
+		4F9C5AF31D30AC9B0070E0DC /* Image */ = {
 			isa = PBXGroup;
 			children = (
-				4F9C5A6F1D30A4210070E0DC /* .gitkeep */,
-			);
-			path = res;
-			sourceTree = "<group>";
-		};
-		4F9C5AB11D30A5710070E0DC /* Image */ = {
-			isa = PBXGroup;
-			children = (
-				4F9C5AB21D30A5710070E0DC /* BackGround */,
-				4F9C5AB31D30A5710070E0DC /* Character */,
-				4F9C5AB41D30A5710070E0DC /* TestImage */,
-				4F9C5ABD1D30A5710070E0DC /* UI */,
+				4F9C5AF41D30AC9B0070E0DC /* BackGround */,
+				4F9C5AF51D30AC9B0070E0DC /* Character */,
+				4F9C5AF61D30AC9B0070E0DC /* TestImage */,
+				4F9C5AFF1D30AC9B0070E0DC /* UI */,
 			);
 			path = Image;
 			sourceTree = "<group>";
 		};
-		4F9C5AB21D30A5710070E0DC /* BackGround */ = {
+		4F9C5AF41D30AC9B0070E0DC /* BackGround */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = BackGround;
 			sourceTree = "<group>";
 		};
-		4F9C5AB31D30A5710070E0DC /* Character */ = {
+		4F9C5AF51D30AC9B0070E0DC /* Character */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Character;
 			sourceTree = "<group>";
 		};
-		4F9C5AB41D30A5710070E0DC /* TestImage */ = {
+		4F9C5AF61D30AC9B0070E0DC /* TestImage */ = {
 			isa = PBXGroup;
 			children = (
-				4F9C5AB51D30A5710070E0DC /* TestBackGround */,
-				4F9C5AB71D30A5710070E0DC /* TestObject */,
+				4F9C5AF71D30AC9B0070E0DC /* TestBackGround */,
+				4F9C5AF91D30AC9B0070E0DC /* TestObject */,
 			);
 			path = TestImage;
 			sourceTree = "<group>";
 		};
-		4F9C5AB51D30A5710070E0DC /* TestBackGround */ = {
+		4F9C5AF71D30AC9B0070E0DC /* TestBackGround */ = {
 			isa = PBXGroup;
 			children = (
-				4F9C5AB61D30A5710070E0DC /* gameMainBG.png */,
+				4F9C5AF81D30AC9B0070E0DC /* gameMainBG.png */,
 			);
 			path = TestBackGround;
 			sourceTree = "<group>";
 		};
-		4F9C5AB71D30A5710070E0DC /* TestObject */ = {
+		4F9C5AF91D30AC9B0070E0DC /* TestObject */ = {
 			isa = PBXGroup;
 			children = (
-				4F9C5AB81D30A5710070E0DC /* Bone */,
+				4F9C5AFA1D30AC9B0070E0DC /* Bone */,
 			);
 			path = TestObject;
 			sourceTree = "<group>";
 		};
-		4F9C5AB81D30A5710070E0DC /* Bone */ = {
+		4F9C5AFA1D30AC9B0070E0DC /* Bone */ = {
 			isa = PBXGroup;
 			children = (
-				4F9C5AB91D30A5710070E0DC /* Bone.png */,
-				4F9C5ABA1D30A5710070E0DC /* BoneFramework1.png */,
-				4F9C5ABB1D30A5710070E0DC /* BoneFramework2.png */,
-				4F9C5ABC1D30A5710070E0DC /* BoneGloss.png */,
+				4F9C5AFB1D30AC9B0070E0DC /* Bone.png */,
+				4F9C5AFC1D30AC9B0070E0DC /* BoneFramework1.png */,
+				4F9C5AFD1D30AC9B0070E0DC /* BoneFramework2.png */,
+				4F9C5AFE1D30AC9B0070E0DC /* BoneGloss.png */,
 			);
 			path = Bone;
 			sourceTree = "<group>";
 		};
-		4F9C5ABD1D30A5710070E0DC /* UI */ = {
+		4F9C5AFF1D30AC9B0070E0DC /* UI */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = UI;
+			sourceTree = "<group>";
+		};
+		4F9C5B001D30AC9B0070E0DC /* res */ = {
+			isa = PBXGroup;
+			children = (
+				4F9C5B011D30AC9B0070E0DC /* .gitkeep */,
+			);
+			path = res;
 			sourceTree = "<group>";
 		};
 		4FB161931D2795AE00447E16 /* Data */ = {
@@ -863,32 +863,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F9C5AC61D30A5710070E0DC /* BoneGloss.png in Resources */,
 				5087E78117EB970100C73F5D /* Icon-120.png in Resources */,
+				4F9C5B0C1D30AC9C0070E0DC /* BoneFramework2.png in Resources */,
 				5087E78617EB970100C73F5D /* Icon-76.png in Resources */,
 				5087E77F17EB970100C73F5D /* Default@2x.png in Resources */,
+				4F9C5B0A1D30AC9C0070E0DC /* BoneFramework1.png in Resources */,
 				50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */,
-				4F9C5A721D30A4210070E0DC /* Marker Felt.ttf in Resources */,
+				4F9C5B041D30AC9C0070E0DC /* Marker Felt.ttf in Resources */,
 				5087E78317EB970100C73F5D /* Icon-152.png in Resources */,
 				5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */,
 				5087E78517EB970100C73F5D /* Icon-72.png in Resources */,
-				4F9C5AC21D30A5710070E0DC /* BoneFramework1.png in Resources */,
 				521A8E6519F0C34300D177D7 /* Default-736h@3x.png in Resources */,
 				50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */,
-				4F9C5AC01D30A5710070E0DC /* Bone.png in Resources */,
 				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
 				50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */,
+				4F9C5B0E1D30AC9C0070E0DC /* BoneGloss.png in Resources */,
 				50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */,
 				5087E78217EB970100C73F5D /* Icon-144.png in Resources */,
 				50EF629817ECD46A001EB2F8 /* Icon-80.png in Resources */,
+				4F9C5B061D30AC9C0070E0DC /* gameMainBG.png in Resources */,
 				5087E78417EB970100C73F5D /* Icon-57.png in Resources */,
-				4F9C5A7E1D30A4210070E0DC /* .gitkeep in Resources */,
+				4F9C5B081D30AC9C0070E0DC /* Bone.png in Resources */,
+				4F9C5B101D30AC9C0070E0DC /* .gitkeep in Resources */,
 				5087E77E17EB970100C73F5D /* Default.png in Resources */,
-				4F9C5A701D30A4210070E0DC /* arial.ttf in Resources */,
+				4F9C5B021D30AC9B0070E0DC /* arial.ttf in Resources */,
 				521A8E6419F0C34300D177D7 /* Default-667h@2x.png in Resources */,
 				50EF629717ECD46A001EB2F8 /* Icon-58.png in Resources */,
-				4F9C5ABE1D30A5710070E0DC /* gameMainBG.png in Resources */,
-				4F9C5AC41D30A5710070E0DC /* BoneFramework2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -896,15 +896,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F9C5A711D30A4210070E0DC /* arial.ttf in Resources */,
-				4F9C5AC51D30A5710070E0DC /* BoneFramework2.png in Resources */,
-				4F9C5A7F1D30A4210070E0DC /* .gitkeep in Resources */,
-				4F9C5AC71D30A5710070E0DC /* BoneGloss.png in Resources */,
-				4F9C5ABF1D30A5710070E0DC /* gameMainBG.png in Resources */,
-				4F9C5AC11D30A5710070E0DC /* Bone.png in Resources */,
-				4F9C5A731D30A4210070E0DC /* Marker Felt.ttf in Resources */,
+				4F9C5B031D30AC9C0070E0DC /* arial.ttf in Resources */,
+				4F9C5B071D30AC9C0070E0DC /* gameMainBG.png in Resources */,
+				4F9C5B0B1D30AC9C0070E0DC /* BoneFramework1.png in Resources */,
+				4F9C5B111D30AC9C0070E0DC /* .gitkeep in Resources */,
+				4F9C5B0D1D30AC9C0070E0DC /* BoneFramework2.png in Resources */,
+				4F9C5B0F1D30AC9C0070E0DC /* BoneGloss.png in Resources */,
+				4F9C5B091D30AC9C0070E0DC /* Bone.png in Resources */,
+				4F9C5B051D30AC9C0070E0DC /* Marker Felt.ttf in Resources */,
 				503AE0F817EB97AB00D1A890 /* Icon.icns in Resources */,
-				4F9C5AC31D30A5710070E0DC /* BoneFramework1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
