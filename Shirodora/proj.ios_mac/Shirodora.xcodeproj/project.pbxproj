@@ -32,6 +32,14 @@
 		4F9C5A411D309CC10070E0DC /* GameMainLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A3D1D309CC10070E0DC /* GameMainLayer.cpp */; };
 		4F9C5A451D309CF10070E0DC /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A431D309CF10070E0DC /* AppDelegate.cpp */; };
 		4F9C5A461D309CF10070E0DC /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A431D309CF10070E0DC /* AppDelegate.cpp */; };
+		4F9C5A541D30A1AC0070E0DC /* Actor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A491D30A1AC0070E0DC /* Actor.cpp */; };
+		4F9C5A551D30A1AC0070E0DC /* Actor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A491D30A1AC0070E0DC /* Actor.cpp */; };
+		4F9C5A561D30A1AC0070E0DC /* Character.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A4C1D30A1AC0070E0DC /* Character.cpp */; };
+		4F9C5A571D30A1AC0070E0DC /* Character.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A4C1D30A1AC0070E0DC /* Character.cpp */; };
+		4F9C5A581D30A1AC0070E0DC /* Object.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A4F1D30A1AC0070E0DC /* Object.cpp */; };
+		4F9C5A591D30A1AC0070E0DC /* Object.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A4F1D30A1AC0070E0DC /* Object.cpp */; };
+		4F9C5A5A1D30A1AC0070E0DC /* Pawn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A521D30A1AC0070E0DC /* Pawn.cpp */; };
+		4F9C5A5B1D30A1AC0070E0DC /* Pawn.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F9C5A521D30A1AC0070E0DC /* Pawn.cpp */; };
 		4FB161B31D2795AE00447E16 /* InputManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FB161A11D2795AE00447E16 /* InputManager.cpp */; };
 		4FB161B41D2795AE00447E16 /* InputManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FB161A11D2795AE00447E16 /* InputManager.cpp */; };
 		4FB161B51D2795AE00447E16 /* MouseManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FB161A41D2795AE00447E16 /* MouseManager.cpp */; };
@@ -147,6 +155,14 @@
 		4F9C5A3E1D309CC10070E0DC /* GameMainLayer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = GameMainLayer.hpp; sourceTree = "<group>"; };
 		4F9C5A431D309CF10070E0DC /* AppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AppDelegate.cpp; sourceTree = "<group>"; };
 		4F9C5A441D309CF10070E0DC /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4F9C5A491D30A1AC0070E0DC /* Actor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Actor.cpp; sourceTree = "<group>"; };
+		4F9C5A4A1D30A1AC0070E0DC /* Actor.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Actor.hpp; sourceTree = "<group>"; };
+		4F9C5A4C1D30A1AC0070E0DC /* Character.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Character.cpp; sourceTree = "<group>"; };
+		4F9C5A4D1D30A1AC0070E0DC /* Character.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Character.hpp; sourceTree = "<group>"; };
+		4F9C5A4F1D30A1AC0070E0DC /* Object.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Object.cpp; sourceTree = "<group>"; };
+		4F9C5A501D30A1AC0070E0DC /* Object.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Object.hpp; sourceTree = "<group>"; };
+		4F9C5A521D30A1AC0070E0DC /* Pawn.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Pawn.cpp; sourceTree = "<group>"; };
+		4F9C5A531D30A1AC0070E0DC /* Pawn.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Pawn.hpp; sourceTree = "<group>"; };
 		4FB161921D2795AE00447E16 /* Constants.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Constants.hpp; sourceTree = "<group>"; };
 		4FB161A11D2795AE00447E16 /* InputManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = InputManager.cpp; sourceTree = "<group>"; };
 		4FB161A21D2795AE00447E16 /* InputManager.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = InputManager.hpp; sourceTree = "<group>"; };
@@ -348,7 +364,7 @@
 				4FB161941D2795AE00447E16 /* Lib */,
 				4FB161AC1D2795AE00447E16 /* UI */,
 				4FB161931D2795AE00447E16 /* Data */,
-				4FB161A91D2795AE00447E16 /* Model */,
+				4F9C5A471D30A1AC0070E0DC /* Model */,
 				4FB161AA1D2795AE00447E16 /* Scene */,
 				4F9C5A251D309BEE0070E0DC /* Layer */,
 			);
@@ -445,6 +461,53 @@
 			path = Delegate;
 			sourceTree = "<group>";
 		};
+		4F9C5A471D30A1AC0070E0DC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4F9C5A481D30A1AC0070E0DC /* Actor */,
+				4F9C5A4E1D30A1AC0070E0DC /* Object */,
+				4F9C5A511D30A1AC0070E0DC /* Pawn */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		4F9C5A481D30A1AC0070E0DC /* Actor */ = {
+			isa = PBXGroup;
+			children = (
+				4F9C5A491D30A1AC0070E0DC /* Actor.cpp */,
+				4F9C5A4A1D30A1AC0070E0DC /* Actor.hpp */,
+				4F9C5A4B1D30A1AC0070E0DC /* Character */,
+			);
+			path = Actor;
+			sourceTree = "<group>";
+		};
+		4F9C5A4B1D30A1AC0070E0DC /* Character */ = {
+			isa = PBXGroup;
+			children = (
+				4F9C5A4C1D30A1AC0070E0DC /* Character.cpp */,
+				4F9C5A4D1D30A1AC0070E0DC /* Character.hpp */,
+			);
+			path = Character;
+			sourceTree = "<group>";
+		};
+		4F9C5A4E1D30A1AC0070E0DC /* Object */ = {
+			isa = PBXGroup;
+			children = (
+				4F9C5A4F1D30A1AC0070E0DC /* Object.cpp */,
+				4F9C5A501D30A1AC0070E0DC /* Object.hpp */,
+			);
+			path = Object;
+			sourceTree = "<group>";
+		};
+		4F9C5A511D30A1AC0070E0DC /* Pawn */ = {
+			isa = PBXGroup;
+			children = (
+				4F9C5A521D30A1AC0070E0DC /* Pawn.cpp */,
+				4F9C5A531D30A1AC0070E0DC /* Pawn.hpp */,
+			);
+			path = Pawn;
+			sourceTree = "<group>";
+		};
 		4FB161931D2795AE00447E16 /* Data */ = {
 			isa = PBXGroup;
 			children = (
@@ -502,19 +565,6 @@
 			path = SingletonTemplate;
 			sourceTree = "<group>";
 		};
-		4FB161A91D2795AE00447E16 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				4FEDF7611D28314C00C6B13C /* Actor */,
-				4FEDF7621D28314C00C6B13C /* Character */,
-				4FEDF7631D28314C00C6B13C /* King */,
-				4FEDF7641D28314C00C6B13C /* Object */,
-				4FEDF7651D28314C00C6B13C /* Struct */,
-				4FEDF7661D28314C00C6B13C /* Summon */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
 		4FB161AA1D2795AE00447E16 /* Scene */ = {
 			isa = PBXGroup;
 			children = (
@@ -545,48 +595,6 @@
 			children = (
 			);
 			path = Title;
-			sourceTree = "<group>";
-		};
-		4FEDF7611D28314C00C6B13C /* Actor */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Actor;
-			sourceTree = "<group>";
-		};
-		4FEDF7621D28314C00C6B13C /* Character */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Character;
-			sourceTree = "<group>";
-		};
-		4FEDF7631D28314C00C6B13C /* King */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = King;
-			sourceTree = "<group>";
-		};
-		4FEDF7641D28314C00C6B13C /* Object */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Object;
-			sourceTree = "<group>";
-		};
-		4FEDF7651D28314C00C6B13C /* Struct */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Struct;
-			sourceTree = "<group>";
-		};
-		4FEDF7661D28314C00C6B13C /* Summon */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Summon;
 			sourceTree = "<group>";
 		};
 		4FEDF7671D28315600C6B13C /* Action */ = {
@@ -907,14 +915,18 @@
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
 				4FB161B31D2795AE00447E16 /* InputManager.cpp in Sources */,
+				4F9C5A541D30A1AC0070E0DC /* Actor.cpp in Sources */,
+				4F9C5A581D30A1AC0070E0DC /* Object.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 				4F9C5A391D309CA20070E0DC /* GameMainScene.cpp in Sources */,
 				4F9C5A301D309BEE0070E0DC /* InputAndMouseLayer.cpp in Sources */,
 				4F9C5A321D309BEE0070E0DC /* InputLayer.cpp in Sources */,
+				4F9C5A5A1D30A1AC0070E0DC /* Pawn.cpp in Sources */,
 				4F9C5A451D309CF10070E0DC /* AppDelegate.cpp in Sources */,
 				4F9C5A341D309BEE0070E0DC /* MouseLayer.cpp in Sources */,
 				4FB161B51D2795AE00447E16 /* MouseManager.cpp in Sources */,
 				4F9C5A401D309CC10070E0DC /* GameMainLayer.cpp in Sources */,
+				4F9C5A561D30A1AC0070E0DC /* Character.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -922,8 +934,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F9C5A5B1D30A1AC0070E0DC /* Pawn.cpp in Sources */,
 				4F9C5A351D309BEE0070E0DC /* MouseLayer.cpp in Sources */,
 				4F9C5A411D309CC10070E0DC /* GameMainLayer.cpp in Sources */,
+				4F9C5A591D30A1AC0070E0DC /* Object.cpp in Sources */,
 				4F9C5A461D309CF10070E0DC /* AppDelegate.cpp in Sources */,
 				503AE10517EB98FF00D1A890 /* main.cpp in Sources */,
 				4FB161B61D2795AE00447E16 /* MouseManager.cpp in Sources */,
@@ -931,6 +945,8 @@
 				4FB161B41D2795AE00447E16 /* InputManager.cpp in Sources */,
 				4F9C5A311D309BEE0070E0DC /* InputAndMouseLayer.cpp in Sources */,
 				4F9C5A3A1D309CA20070E0DC /* GameMainScene.cpp in Sources */,
+				4F9C5A571D30A1AC0070E0DC /* Character.cpp in Sources */,
+				4F9C5A551D30A1AC0070E0DC /* Actor.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

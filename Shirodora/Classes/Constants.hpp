@@ -1,13 +1,13 @@
 //
-//  Constants.h
+//  Constants.hpp
 //  Experiment
 //
 //  Created by Ryoutarou Onimura on 2016/06/02.
 //
 //
 
-#ifndef Constants_h
-#define Constants_h
+#ifndef Constants_hpp
+#define Constants_hpp
 
 //=========================================================================
 // 関数やマクロ定義はここから
@@ -57,4 +57,4 @@ public :
 //	画像ファイルのマクロはここから書く
 //=========================================================================
 
-#endif /* Constants_h */
+#endif /* Constants_hpp */
