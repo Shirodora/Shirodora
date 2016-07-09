@@ -24,7 +24,11 @@
 /**
  *  @desc   constructor
  */
-CMouse::CMouse(){}
+CMouse::CMouse() :
+m_clickCursorPosition(WINDOW_WIDTH * 0.5, WINDOW_HEIGHT * 0.5),
+m_dropCursorPosition(WINDOW_WIDTH * 0.5, WINDOW_HEIGHT * 0.5) ,
+m_currentCursorPosition(WINDOW_WIDTH * 0.5, WINDOW_HEIGHT * 0.5) ,
+m_previousCursorPosition(WINDOW_WIDTH * 0.5, WINDOW_HEIGHT * 0.5){}
 
 /**
  *  @desc   destructor
