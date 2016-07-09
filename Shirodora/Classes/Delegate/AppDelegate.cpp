@@ -3,9 +3,9 @@
 //=========================================================================
 // 追加のインクルードはここから
 //=========================================================================
-#include "Constants.h"
-#include "Manager.h"
-#include "Scene.h"
+#include "Constants.hpp"
+#include "Manager.hpp"
+#include "Scene.hpp"
 
 USING_NS_CC;
 
